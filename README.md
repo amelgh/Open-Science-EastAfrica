@@ -1,19 +1,29 @@
-# Welcome to the 2017 Working Open Workshop - Tanzania
+# Welcome to the East Africa Open Science Tour 2018
 
-This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshops held in 2018. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
+This is a repo to collect all materials and resources related to the Open Science trainings tour in East Africa held in November 2018.  You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
 
 #### What is the Working Open Workshop?
 
-The Working Open Workshop (or WOW) is **a set of trainings created by Mozilla Science Lab to help up-and-coming leaders of open science and open research projects make the most effective open projects possible, and build active communities of contributors around them.** Specifically, WOW prepares project leads for a strong launch of their open source projects (in this case, "project" includes code and non-code projects).
+**Mozilla Science group** and **H3ABionet** in collaboration with **SageBionetworks** will be running a series of 2 days Open Science trainings in East Africa. 
+These 2 days trainings aim to raise awareness, increase skills around open research and reproducibility in Science, tools and platforms,  and ultimately help scientist and researchers overcome the fears and challenges. 
 
-#### What happens at WOW?
+#### East-Africa tour details?
 
-The core WOW experience is 2 days of small, invite-only workshops and work sessions led by Mozilla staff and Fellows. **In these workshops, we’ll cover the essentials of preparing an open project, bringing on contributors, developing your mentorship skills, using collaboration tools such as Git and GitHub, and growing an active community around an open project.**
+| Dates | Institution | City/Country |Contact person |
+| ------------- | ------------- |------------- |------------- |
+| Nov 12-13 | [UVRI]()|Entebbe, Uganda|[Jonathan Kayondo](jkayondo@gmail.com)| 
+| Nov 12-13 | [AASTU]()|Addis, Ethiopia|[Mesfin Diro](http://mesfin.diro@aau.edu.et )| 
+| Nov 12-13 | [CBSB, UofK]()|Entebbe, Sudan|[Faisal Fadlelmola](faisal.mohamed@hotmail.com)| 
+| Nov 12-13 | [ICIPE]()|Nairobi, Kenya|[Daniel Masiga]()| 
 
-**Our approach is hands-on, and project-based.** The WOW agenda includes lots of time for participants to make real, meaningful progress on their projects, and to network and collaborate across projects and disciplines.
 
-Browse the details of our preceding WOWs here:
+
+#### Detailed schedule
+
+
+
+Browse the details of our preceding Working Open Workshops organized by Mozilla Science here:
 
 * Berlin: http://mozillascience.github.io/working-open-workshop/
 * Montreal: https://mozillascience.github.io/WOW-2017/
@@ -31,9 +41,3 @@ WOW was designed as a springboard for a group we're calling the Open Leadership 
 #### What is "open" research?
 
 Whether you're studying the human genome, black holes, deep-sea ecology, medieval music, or alternative energy sources, research is a practice and process of learning, and creating knowledge. Researchers always build on (or transform) an existing understanding of the world. **A researcher working open shares insights or discoveries freely, makes her data available on the web, or makes the details of a new experimental technique or tool public so others can use and reuse it. By working open, she empowers fellow researchers and furthers our collective knowledge... knowledge that can be used to solve problems, save lives, and inspire and amaze us all.** The more data, knowledge, methods, tools and skills made widely and openly available to all, the better.  
-
-#### What is the Mozilla Science Lab?
-
-At [Mozilla Science Lab](https://science.mozilla.org/) we help researchers (anyone from students to established scientists to citizen scientists) and those who support them (developers, librarians, publishers, etc) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
-
-We provide leadership training (such as this Workshop), learning materials and formats (such as [Mozilla Study Groups](http://mozillascience.github.io/studyGroupHandbook/)), platforms for sharing and showcasing open Science projects (such as [MSL Projects](https://science.mozilla.org/projects)), and support for leaders in open science (through the [Mozilla Fellows for Science](https://science.mozilla.org/programs/fellowships) and the Open Leaders program).
