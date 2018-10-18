@@ -8,7 +8,7 @@ This is a repo to collect all materials and resources related to the Open Scienc
 **Mozilla Science group** and **H3ABionet** in collaboration with **SageBionetworks** will be running a series of 2 days Open Science trainings in East Africa. 
 These 2 days trainings aim to raise awareness, increase skills around open research and reproducibility in Science, tools and platforms,  and ultimately help scientist and researchers overcome the fears and challenges. 
 
-#### East-Africa tour details?
+#### East-Africa tour details
 
 | Dates | Institution | City/Country |Contact person |
 | ------------- | ------------- |------------- |------------- |
@@ -20,8 +20,6 @@ These 2 days trainings aim to raise awareness, increase skills around open resea
 
 
 #### Detailed schedule
-
-
 
 Browse the details of our preceding Working Open Workshops organized by Mozilla Science here:
 
